@@ -1,0 +1,297 @@
+ * {
+   margin: 0;
+   padding: 0;
+ }
+
+ .bg-size {
+   background-color: blueviolet;
+   height: 600px;
+ }
+
+
+ .navigation-bar ul {
+   display: flex;
+   padding: 20px;
+   list-style-type: none;
+   gap: 20px;
+   justify-content: end;
+
+ }
+
+ .navigation-bar ul li a {
+   color: white;
+   text-decoration: none;
+   font-weight: bold;
+ }
+
+ .two {
+   display: flex;
+   gap: 10px;
+ }
+
+ .two .two1 {
+
+   width: 60%;
+   font-size: 30px;
+   margin: 10px;
+   padding: 80px;
+   color: white;
+   margin-left: 100px;
+ }
+
+ .two .two1 h6 {
+   font-size: small;
+ }
+
+ .two .two1 button {
+   padding: 10px 30px;
+   background-color: aqua;
+ }
+
+ .button {
+   display: flex;
+   margin-top: 100px;
+   gap: 50px;
+ }
+
+ .button a {
+   color: white;
+   text-decoration: none;
+   font-size: 14px;
+ }
+
+ .two .two2 {
+   width: 20%;
+ }
+
+ .fist-icon {
+
+   background-color: gainsboro;
+   height: 70px;
+   display: flex;
+ }
+
+ .fist-icon ul {
+   margin: auto;
+   padding: 30PX;
+ }
+
+ .fist-icon ul li {
+   display: flex;
+   gap: 90px;
+   margin: auto;
+   font-size: 30px;
+ }
+
+ .secend-div {
+   display: flex;
+   margin-top: 30px;
+ }
+
+ .div1 {
+   width: 50%;
+   margin-left: 50px;
+ }
+
+ .div1 .text {
+
+   color: black;
+   font-size: 60px;
+   font-weight: bold;
+   margin-top: 100px;
+   text-align: justify;
+ }
+
+ .div2 {
+   width: 50%;
+
+
+ }
+
+ .div2 img {
+   width: 80%;
+   height: 100%;
+   margin-left: 120px;
+ }
+
+ .icon2 {
+   font-weight: bold;
+   margin-top: 50px;
+   gap: 5px;
+   font-size: 50px;
+ }
+
+ .icon2 i {
+   color: rgb(255, 21, 21);
+ }
+
+ .icon2 h6 {
+   font-size: 15px;
+   /* padding: 20px; */
+   margin-left: 60px;
+ }
+
+
+ .thard3 {
+   background-color: gainsboro;
+   height: 200px;
+   text-align: center;
+ }
+
+ .thard3 p {
+   text-align: center;
+ }
+
+ .five {
+
+   display: flex;
+   margin-left: 30%;
+   gap: 20px;
+ }
+
+ .logo1 {
+   background-color: white;
+   height: 80px;
+   width: 150px;
+   align-items: center;
+ }
+
+ .logo1 h3 {
+   margin-left: 40px;
+   font-weight: bold;
+   margin-top: 0px;
+
+ }
+
+ .logo1 img {
+   margin-left: 20.9px;
+   margin-top: 0px;
+   height: 100px;
+   padding: 0px;
+ }
+
+ .logo12 {
+   background-color: white;
+   height: 80px;
+   width: 150px;
+   align-items: center;
+ }
+
+ .logo12 h3 {
+   margin-left: 30px;
+   font-weight: bold;
+   margin-top: 0px;
+
+ }
+
+ .logo12 img {
+   margin-left: 20.9px;
+   margin-top: -30px;
+   height: 100px;
+ }
+
+
+ .six {
+   display: flex;
+ }
+
+ .six-1 {
+   width: 50%;
+   margin: auto;
+   padding: 100px;
+ }
+
+ .six-2 {
+   width: 50%;
+   margin: auto;
+   padding: 100px;
+   display: block;
+
+ }
+
+ .six-2 div {
+   border: 2px solid rgb(14, 150, 255);
+   height: 80px;
+   width: 100px;
+   padding: 10px;
+   margin: 10px 0;
+   text-align: center;
+ }
+
+ .six-2in {
+   width: 50%;
+   margin-right: 10px;
+   margin-top: 200px;
+
+
+ }
+
+ .six-2in div {
+   border: 2px solid rgb(14, 150, 255);
+   height: 80px;
+   width: 100px;
+   margin-top: 150px;
+   padding: 10px;
+   margin: 10px 0;
+   text-align: center;
+ }
+
+ .seven {
+   display: flex;
+   background-color: rgb(240, 237, 237);
+   height: 600px;
+ }
+
+ .pad {
+   padding: 40px;
+   width: 70%;
+ }
+
+ .last-icon {
+   display: flex;
+   font-size: 20px;
+   font-weight: bold;
+   padding: 10px;
+ }
+
+ .last-icon i {
+   font-size: 30px;
+   color: aqua;
+ }
+
+ .last-icon div h6 {
+   padding: 10px;
+   margin-left: 10px;
+ }
+
+ .last-img {
+   width: 30%;
+
+ }
+
+ .last-img img {
+   height: 600px;
+   margin-left: -200px;
+ }
+
+ .header-bar {
+   background-color: blueviolet;
+   height: 300px;
+   display: flex;
+ }
+
+ .hed-text {
+   width: 50%;
+   color: white;
+   padding: 20px;
+ }
+
+ .hed-img {
+   width: 50%;
+   display: flex;
+ }
+
+ .hed-img img {
+
+   height: 100%;
+ }
